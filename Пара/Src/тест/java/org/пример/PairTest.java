@@ -23,7 +23,7 @@ public class PairTest {
     }
     
     @org.junit.Test
-    public void PairTest2() {
+    public void PairTest3() {
         Integer C = 0;
         Integer D = 1;
         Pair<Integer, Integer> P = new Pair<>(C, D);
